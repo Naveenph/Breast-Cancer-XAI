@@ -1,0 +1,19 @@
+# Ignore Python caches
+__pycache__/
+*.pyc
+
+# Ignore Dataset folders (Too large for GitHub)
+dataset/
+BreaKHis_v1/
+*.zip
+*.tgz
+*.rar
+
+# Ignore virtual environments
+venv/
+env/
+.env
+
+# Keep the model but ignore other potentially huge files
+# !best_model.h5 (We actually want to keep this, so we don't ignore it)
+final_breast_cancer_model.h5

@@ -1,0 +1,13 @@
+tensorflow
+tf-keras~=2.15.0
+tf-explain
+shap
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+streamlit
+fpdf2
+numpy
+pandas
+Pillow
