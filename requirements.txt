@@ -2,7 +2,7 @@ tensorflow
 tf-keras~=2.15.0
 tf-explain
 shap
-opencv-python
+opencv-python-headless
 matplotlib
 seaborn
 scikit-learn
